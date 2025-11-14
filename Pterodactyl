@@ -299,8 +299,8 @@ MYSQL_SCRIPT
 
             print_status "Downloading blueprints..."
             cd /var/www/pterodactyl
-            wget -q https://github.com/NotJishnuisback/Free123/raw/refs/heads/main/minecraftplayermanager.blueprint
-            wget -q https://github.com/NotJishnuisback/Free123/raw/refs/heads/main/mcplugins.blueprint
+            wget -q https://github.com/devrdxdev/Files/raw/refs/heads/main/Pterodactyl/mcplugins.blueprint
+            wget -q https://github.com/devrdxdev/Files/raw/refs/heads/main/Pterodactyl/minecraftplayermanager.blueprint
             print_success "Blueprints downloaded"
 
             print_status "Installing mcplugins.blueprint..."
