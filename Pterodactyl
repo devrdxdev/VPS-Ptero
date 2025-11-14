@@ -163,7 +163,7 @@ system_info() {
 show_menu() {
     clear
     print_header_rule
-    echo -e "${CYAN}           🚀 JISHNU HOSTING MANAGER            ${NC}"
+    echo -e "${CYAN}           🚀 devrdxdev HOSTING MANAGER            ${NC}"
     echo -e "${CYAN}              made by devrdxdev          ${NC}"
     print_header_rule
 
